@@ -1,0 +1,441 @@
+fileFormatVersion: 2
+guid: ac42e6142d9700f478c16d896971e018
+timeCreated: 1448361542
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Squid Attack_0
+    21300002: Squid Attack_1
+    21300004: Squid Attack_2
+    21300006: Squid Attack_3
+    21300008: Squid Attack_4
+    21300010: Squid Attack_5
+    21300012: Squid Attack_6
+    21300014: Squid Attack_7
+    21300016: Squid Attack_8
+    21300018: Squid Attack_9
+    21300020: Squid Attack_10
+    21300022: Squid Attack_11
+    21300024: Squid Attack_12
+    21300026: Squid Attack_13
+    21300028: Squid Attack_14
+    21300030: Squid Attack_15
+    21300032: Squid Attack_16
+    21300034: Squid Attack_17
+    21300036: Squid Attack_18
+    21300038: Squid Attack_19
+    21300040: Squid Attack_20
+    21300042: Squid Attack_21
+    21300044: Squid Attack_22
+    21300046: Squid Attack_23
+    21300048: Squid Attack_24
+    21300050: Squid Attack_25
+    21300052: Squid Attack_26
+    21300054: Squid Attack_27
+    21300056: Squid Attack_28
+    21300058: Squid Attack_29
+    21300060: Squid Attack_30
+    21300062: Squid Attack_31
+    21300064: Squid Attack_32
+    21300066: Squid Attack_33
+    21300068: Squid Attack_34
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Squid Attack_0
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 7570
+        width: 612
+        height: 588
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Attack_1
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 7578
+        width: 588
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Attack_2
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 7594
+        width: 534
+        height: 588
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Attack_3
+      rect:
+        serializedVersion: 2
+        x: 2414
+        y: 7598
+        width: 544
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Attack_4
+      rect:
+        serializedVersion: 2
+        x: 3106
+        y: 7602
+        width: 572
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Attack_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 6986
+        width: 596
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Attack_6
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 6990
+        width: 648
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Attack_7
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 7010
+        width: 648
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Attack_8
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 7030
+        width: 640
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Attack_9
+      rect:
+        serializedVersion: 2
+        x: 3034
+        y: 7022
+        width: 628
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Attack_10
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 6390
+        width: 616
+        height: 532
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Attack_11
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 6374
+        width: 592
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Attack_12
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 6358
+        width: 620
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Attack_13
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 6398
+        width: 604
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Attack_14
+      rect:
+        serializedVersion: 2
+        x: 3058
+        y: 6434
+        width: 600
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Attack_15
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 5806
+        width: 584
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Attack_16
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 5802
+        width: 568
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Attack_17
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 5782
+        width: 574
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Attack_18
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 5762
+        width: 588
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Attack_19
+      rect:
+        serializedVersion: 2
+        x: 3070
+        y: 5754
+        width: 568
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Attack_20
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 5146
+        width: 552
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Attack_21
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 5150
+        width: 556
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Attack_22
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 5150
+        width: 564
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Attack_23
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 5150
+        width: 576
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Attack_24
+      rect:
+        serializedVersion: 2
+        x: 3042
+        y: 5114
+        width: 588
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Attack_25
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 4498
+        width: 576
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Attack_26
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 4502
+        width: 556
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Attack_27
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 4498
+        width: 544
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Attack_28
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 4494
+        width: 536
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Attack_29
+      rect:
+        serializedVersion: 2
+        x: 3070
+        y: 4478
+        width: 524
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Attack_30
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 3862
+        width: 516
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Attack_31
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 3854
+        width: 520
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Attack_32
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 3854
+        width: 552
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Attack_33
+      rect:
+        serializedVersion: 2
+        x: 2334
+        y: 3850
+        width: 572
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Attack_34
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 3850
+        width: 576
+        height: 580
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

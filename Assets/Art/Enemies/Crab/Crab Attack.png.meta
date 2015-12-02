@@ -1,0 +1,298 @@
+fileFormatVersion: 2
+guid: 0873d4bae538e7d45ac88d2f68d02413
+timeCreated: 1448361824
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Crab Attack_0
+    21300002: Crab Attack_1
+    21300004: Crab Attack_2
+    21300006: Crab Attack_3
+    21300008: Crab Attack_4
+    21300010: Crab Attack_5
+    21300012: Crab Attack_6
+    21300014: Crab Attack_7
+    21300016: Crab Attack_8
+    21300018: Crab Attack_9
+    21300020: Crab Attack_10
+    21300022: Crab Attack_11
+    21300024: Crab Attack_12
+    21300026: Crab Attack_13
+    21300028: Crab Attack_15
+    21300030: Crab Attack_18
+    21300032: Crab Attack_20
+    21300034: Crab Attack_21
+    21300036: Crab Attack_22
+    21300038: Crab Attack_23
+    21300040: Crab Attack_24
+    21300042: Crab Attack_25
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Crab Attack_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1806
+        width: 327
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab Attack_1
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1801
+        width: 310
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab Attack_2
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1798
+        width: 299
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab Attack_3
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 1801
+        width: 316
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab Attack_4
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 1803
+        width: 332
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab Attack_5
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1543
+        width: 346
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab Attack_6
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1534
+        width: 359
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab Attack_7
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1524
+        width: 378
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab Attack_8
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1538
+        width: 376
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab Attack_9
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1554
+        width: 367
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab Attack_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1294
+        width: 366
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab Attack_11
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1304
+        width: 364
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab Attack_12
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1313
+        width: 363
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab Attack_13
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 1306
+        width: 365
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab Attack_15
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1300
+        width: 367
+        height: 199
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab Attack_18
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1061
+        width: 361
+        height: 179
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab Attack_20
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1031
+        width: 358
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab Attack_21
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1015
+        width: 351
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab Attack_22
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1016
+        width: 341
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab Attack_23
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1020
+        width: 327
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab Attack_24
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 758
+        width: 329
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab Attack_25
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 758
+        width: 327
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

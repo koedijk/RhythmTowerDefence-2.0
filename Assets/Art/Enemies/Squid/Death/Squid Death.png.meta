@@ -1,0 +1,452 @@
+fileFormatVersion: 2
+guid: 6ec7bb91300a4c74ea596dba6a23b4f6
+timeCreated: 1448361617
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Squid Death_0
+    21300002: Squid Death_1
+    21300004: Squid Death_2
+    21300006: Squid Death_3
+    21300008: Squid Death_4
+    21300010: Squid Death_5
+    21300012: Squid Death_6
+    21300014: Squid Death_7
+    21300016: Squid Death_8
+    21300018: Squid Death_9
+    21300020: Squid Death_10
+    21300022: Squid Death_11
+    21300024: Squid Death_12
+    21300026: Squid Death_13
+    21300028: Squid Death_14
+    21300030: Squid Death_15
+    21300032: Squid Death_16
+    21300034: Squid Death_17
+    21300036: Squid Death_18
+    21300038: Squid Death_19
+    21300040: Squid Death_20
+    21300042: Squid Death_21
+    21300044: Squid Death_22
+    21300046: Squid Death_23
+    21300048: Squid Death_24
+    21300050: Squid Death_25
+    21300052: Squid Death_26
+    21300054: Squid Death_27
+    21300056: Squid Death_28
+    21300058: Squid Death_29
+    21300060: Squid Death_30
+    21300062: Squid Death_31
+    21300064: Squid Death_32
+    21300066: Squid Death_33
+    21300068: Squid Death_34
+    21300070: Squid Death_35
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Squid Death_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 7518
+        width: 672
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Death_1
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 7522
+        width: 620
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Death_2
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 7530
+        width: 576
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Death_3
+      rect:
+        serializedVersion: 2
+        x: 2326
+        y: 7538
+        width: 540
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Death_4
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 7546
+        width: 550
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Death_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 6778
+        width: 532
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Death_6
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 6782
+        width: 512
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Death_7
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 6786
+        width: 484
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Death_8
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 6786
+        width: 448
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Death_9
+      rect:
+        serializedVersion: 2
+        x: 3254
+        y: 6782
+        width: 412
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Death_10
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 6010
+        width: 404
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Death_11
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 6010
+        width: 400
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Death_12
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 6010
+        width: 390
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Death_13
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 6010
+        width: 384
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Death_14
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 6010
+        width: 396
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Death_15
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 5238
+        width: 412
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Death_16
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 5254
+        width: 396
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Death_17
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 5270
+        width: 384
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Death_18
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 5286
+        width: 400
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Death_19
+      rect:
+        serializedVersion: 2
+        x: 3238
+        y: 5306
+        width: 412
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Death_20
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 4490
+        width: 444
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Death_21
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 4450
+        width: 476
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Death_22
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 4418
+        width: 500
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Death_23
+      rect:
+        serializedVersion: 2
+        x: 2378
+        y: 4390
+        width: 516
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Death_24
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 4374
+        width: 548
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Death_25
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 3586
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Death_26
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 3570
+        width: 672
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Death_27
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 3550
+        width: 740
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Death_28
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 3550
+        width: 736
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Death_29
+      rect:
+        serializedVersion: 2
+        x: 2974
+        y: 3550
+        width: 738
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Death_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2778
+        width: 736
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Death_31
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 2778
+        width: 736
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Death_32
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 2778
+        width: 738
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Death_33
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 2778
+        width: 736
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Death_34
+      rect:
+        serializedVersion: 2
+        x: 2974
+        y: 2778
+        width: 738
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Squid Death_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2006
+        width: 736
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

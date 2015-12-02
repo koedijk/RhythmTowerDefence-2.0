@@ -1,0 +1,331 @@
+fileFormatVersion: 2
+guid: 772b94a353ad16942a7cd397c3ba2c0b
+timeCreated: 1448478169
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Crab Death_0
+    21300002: Crab Death_1
+    21300004: Crab Death_2
+    21300006: Crab Death_3
+    21300008: Crab Death_4
+    21300010: Crab Death_5
+    21300012: Crab Death_6
+    21300014: Crab Death_7
+    21300016: Crab Death_8
+    21300018: Crab Death_9
+    21300020: Crab Death_10
+    21300022: Crab Death_11
+    21300024: Crab Death_12
+    21300026: Crab Death_13
+    21300028: Crab Death_14
+    21300030: Crab Death_15
+    21300032: Crab Death_16
+    21300034: Crab Death_17
+    21300036: Crab Death_18
+    21300038: Crab Death_19
+    21300040: Crab Death_20
+    21300042: Crab Death_21
+    21300044: Crab Death_22
+    21300046: Crab Death_23
+    21300048: Crab Death_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Crab Death_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1806
+        width: 327
+        height: 238
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab Death_1
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1802
+        width: 340
+        height: 238
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab Death_2
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1791
+        width: 371
+        height: 241
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab Death_3
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 1789
+        width: 368
+        height: 244
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab Death_4
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 1785
+        width: 359
+        height: 255
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab Death_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1481
+        width: 359
+        height: 262
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab Death_6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1175
+        width: 351
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab Death_7
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 862
+        width: 332
+        height: 284
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab Death_8
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 565
+        width: 331
+        height: 284
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab Death_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 266
+        width: 334
+        height: 286
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab Death_10
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1457
+        width: 332
+        height: 281
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab Death_11
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1453
+        width: 324
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab Death_12
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1452
+        width: 322
+        height: 246
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab Death_13
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 1452
+        width: 316
+        height: 211
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab Death_14
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1157
+        width: 309
+        height: 163
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab Death_15
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 858
+        width: 314
+        height: 164
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab Death_16
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 561
+        width: 309
+        height: 161
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab Death_17
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 264
+        width: 309
+        height: 162
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab Death_18
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1158
+        width: 309
+        height: 163
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab Death_19
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1156
+        width: 310
+        height: 163
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab Death_20
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 1156
+        width: 307
+        height: 162
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab Death_21
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 859
+        width: 309
+        height: 161
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab Death_22
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 858
+        width: 309
+        height: 159
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab Death_23
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 858
+        width: 314
+        height: 164
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab Death_24
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 562
+        width: 306
+        height: 162
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

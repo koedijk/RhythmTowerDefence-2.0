@@ -1,0 +1,309 @@
+fileFormatVersion: 2
+guid: a71869c8ba104944ba4e265c3e212bf1
+timeCreated: 1448479239
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Snapper Attack_0
+    21300002: Snapper Attack_1
+    21300004: Snapper Attack_2
+    21300006: Snapper Attack_3
+    21300008: Snapper Attack_4
+    21300010: Snapper Attack_5
+    21300012: Snapper Attack_6
+    21300014: Snapper Attack_7
+    21300016: Snapper Attack_8
+    21300018: Snapper Attack_9
+    21300020: Snapper Attack_10
+    21300022: Snapper Attack_11
+    21300024: Snapper Attack_12
+    21300026: Snapper Attack_13
+    21300028: Snapper Attack_14
+    21300030: Snapper Attack_15
+    21300032: Snapper Attack_16
+    21300034: Snapper Attack_17
+    21300036: Snapper Attack_18
+    21300038: Snapper Attack_19
+    21300040: Snapper Attack_20
+    21300042: Snapper Attack_21
+    21300044: Snapper Attack_22
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Snapper Attack_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1658
+        width: 300
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snapper Attack_1
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1658
+        width: 292
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snapper Attack_2
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1658
+        width: 282
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snapper Attack_3
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1658
+        width: 285
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snapper Attack_4
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 1658
+        width: 289
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snapper Attack_5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1261
+        width: 277
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snapper Attack_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1261
+        width: 283
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snapper Attack_7
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1261
+        width: 282
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snapper Attack_8
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1261
+        width: 281
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snapper Attack_9
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 1261
+        width: 281
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snapper Attack_10
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 864
+        width: 278
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snapper Attack_11
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 863
+        width: 281
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snapper Attack_12
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 864
+        width: 282
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snapper Attack_13
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 864
+        width: 281
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snapper Attack_14
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 946
+        width: 278
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snapper Attack_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 530
+        width: 279
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snapper Attack_16
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 509
+        width: 286
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snapper Attack_17
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 488
+        width: 302
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snapper Attack_18
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 460
+        width: 312
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snapper Attack_19
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 460
+        width: 312
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snapper Attack_20
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 65
+        width: 311
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snapper Attack_21
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 66
+        width: 309
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snapper Attack_22
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 68
+        width: 305
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

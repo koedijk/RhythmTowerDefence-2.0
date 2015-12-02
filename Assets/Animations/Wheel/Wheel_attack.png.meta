@@ -1,0 +1,397 @@
+fileFormatVersion: 2
+guid: caa44673a6dfaf743abaaece24e911d1
+timeCreated: 1448557874
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Wheel_attack_0
+    21300002: Wheel_attack_1
+    21300004: Wheel_attack_2
+    21300006: Wheel_attack_3
+    21300008: Wheel_attack_4
+    21300010: Wheel_attack_5
+    21300012: Wheel_attack_6
+    21300014: Wheel_attack_7
+    21300016: Wheel_attack_8
+    21300018: Wheel_attack_9
+    21300020: Wheel_attack_10
+    21300022: Wheel_attack_11
+    21300024: Wheel_attack_12
+    21300026: Wheel_attack_13
+    21300028: Wheel_attack_14
+    21300030: Wheel_attack_15
+    21300032: Wheel_attack_16
+    21300034: Wheel_attack_17
+    21300036: Wheel_attack_18
+    21300038: Wheel_attack_19
+    21300040: Wheel_attack_20
+    21300042: Wheel_attack_21
+    21300044: Wheel_attack_22
+    21300046: Wheel_attack_23
+    21300048: Wheel_attack_24
+    21300050: Wheel_attack_25
+    21300052: Wheel_attack_26
+    21300054: Wheel_attack_27
+    21300056: Wheel_attack_28
+    21300058: Wheel_attack_29
+    21300060: Wheel_attack_30
+    21300062: Wheel_attack_31
+    21300064: Wheel_attack_32
+    21300066: Wheel_attack_33
+    21300068: Wheel_attack_34
+    21300070: Wheel_attack_35
+    21300072: Wheel_attack_36
+    21300074: Wheel_attack_37
+    21300076: Wheel_attack_38
+    21300078: Wheel_attack_39
+    21300080: Wheel_attack_40
+    21300082: Wheel_attack_41
+    21300084: Wheel_attack_42
+    21300086: Wheel_attack_43
+    21300088: Wheel_attack_44
+    21300090: Wheel_attack_45
+    21300092: Wheel_attack_46
+    21300094: Wheel_attack_47
+    21300096: Wheel_attack_48
+    21300098: Wheel_attack_49
+    21300100: Wheel_attack_50
+    21300102: Wheel_attack_51
+    21300104: Wheel_attack_52
+    21300106: Wheel_attack_53
+    21300108: Wheel_attack_54
+    21300110: Wheel_attack_55
+    21300112: Wheel_attack_56
+    21300114: Wheel_attack_57
+    21300116: Wheel_attack_58
+    21300118: Wheel_attack_59
+    21300120: Wheel_attack_60
+    21300122: Wheel_attack_61
+    21300124: Wheel_attack_62
+    21300126: Wheel_attack_63
+    21300128: Wheel_attack_64
+    21300130: Wheel_attack_65
+    21300132: Wheel_attack_66
+    21300134: Wheel_attack_67
+    21300136: Wheel_attack_68
+    21300138: Wheel_attack_69
+    21300140: Wheel_attack_70
+    21300142: Wheel_attack_71
+    21300144: Wheel_attack_72
+    21300146: Wheel_attack_73
+    21300148: Wheel_attack_74
+    21300150: Wheel_attack_75
+    21300152: Wheel_attack_76
+    21300154: Wheel_attack_77
+    21300156: Wheel_attack_78
+    21300158: Wheel_attack_79
+    21300160: Wheel_attack_80
+    21300162: Wheel_attack_81
+    21300164: Wheel_attack_82
+    21300166: Wheel_attack_83
+    21300168: Wheel_attack_84
+    21300170: Wheel_attack_85
+    21300172: Wheel_attack_86
+    21300174: Wheel_attack_87
+    21300176: Wheel_attack_88
+    21300178: Wheel_attack_89
+    21300180: Wheel_attack_90
+    21300182: Wheel_attack_91
+    21300184: Wheel_attack_92
+    21300186: Wheel_attack_93
+    21300188: Wheel_attack_94
+    21300190: Wheel_attack_95
+    21300192: Wheel_attack_96
+    21300194: Wheel_attack_97
+    21300196: Wheel_attack_98
+    21300198: Wheel_attack_99
+    21300200: Wheel_attack_100
+    21300202: Wheel_attack_101
+    21300204: Wheel_attack_102
+    21300206: Wheel_attack_103
+    21300208: Wheel_attack_104
+    21300210: Wheel_attack_105
+    21300212: Wheel_attack_106
+    21300214: Wheel_attack_107
+    21300216: Wheel_attack_108
+    21300218: Wheel_attack_109
+    21300220: Wheel_attack_110
+    21300222: Wheel_attack_111
+    21300224: Wheel_attack_112
+    21300226: Wheel_attack_113
+    21300228: Wheel_attack_114
+    21300230: Wheel_attack_115
+    21300232: Wheel_attack_116
+    21300234: Wheel_attack_117
+    21300236: Wheel_attack_118
+    21300238: Wheel_attack_119
+    21300240: Wheel_attack_120
+    21300242: Wheel_attack_121
+    21300244: Wheel_attack_122
+    21300246: Wheel_attack_123
+    21300248: Wheel_attack_124
+    21300250: Wheel_attack_125
+    21300252: Wheel_attack_126
+    21300254: Wheel_attack_127
+    21300256: Wheel_attack_128
+    21300258: Wheel_attack_129
+    21300260: Wheel_attack_130
+    21300262: Wheel_attack_131
+    21300264: Wheel_attack_132
+    21300266: Wheel_attack_133
+    21300268: Wheel_attack_134
+    21300270: Wheel_attack_135
+    21300272: Wheel_attack_136
+    21300274: Wheel_attack_137
+    21300276: Wheel_attack_138
+    21300278: Wheel_attack_139
+    21300280: Wheel_attack_140
+    21300282: Wheel_attack_141
+    21300284: Wheel_attack_142
+    21300286: Wheel_attack_143
+    21300288: Wheel_attack_144
+    21300290: Wheel_attack_145
+    21300292: Wheel_attack_146
+    21300294: Wheel_attack_147
+    21300296: Wheel_attack_148
+    21300298: Wheel_attack_149
+    21300300: Wheel_attack_150
+    21300302: Wheel_attack_151
+    21300304: Wheel_attack_152
+    21300306: Wheel_attack_153
+    21300308: Wheel_attack_154
+    21300310: Wheel_attack_155
+    21300312: Wheel_attack_156
+    21300314: Wheel_attack_157
+    21300316: Wheel_attack_158
+    21300318: Wheel_attack_159
+    21300320: Wheel_attack_160
+    21300322: Wheel_attack_161
+    21300324: Wheel_attack_162
+    21300326: Wheel_attack_163
+    21300328: Wheel_attack_164
+    21300330: Wheel_attack_165
+    21300332: Wheel_attack_166
+    21300334: Wheel_attack_167
+    21300336: Wheel_attack_168
+    21300338: Wheel_attack_169
+    21300340: Wheel_attack_170
+    21300342: Wheel_attack_171
+    21300344: Wheel_attack_172
+    21300346: Wheel_attack_173
+    21300348: Wheel_attack_174
+    21300350: Wheel_attack_175
+    21300352: Wheel_attack_176
+    21300354: Wheel_attack_177
+    21300356: Wheel_attack_178
+    21300358: Wheel_attack_179
+    21300360: Wheel_attack_180
+    21300362: Wheel_attack_181
+    21300364: Wheel_attack_182
+    21300366: Wheel_attack_183
+    21300368: Wheel_attack_184
+    21300370: Wheel_attack_185
+    21300372: Wheel_attack_186
+    21300374: Wheel_attack_187
+    21300376: Wheel_attack_188
+    21300378: Wheel_attack_189
+    21300380: Wheel_attack_190
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Wheel_attack_0
+      rect:
+        serializedVersion: 2
+        x: 2577
+        y: 7458
+        width: 312
+        height: 317
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wheel_attack_1
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 7196
+        width: 312
+        height: 317
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wheel_attack_5
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 7349
+        width: 312
+        height: 316
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wheel_attack_15
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 6530
+        width: 312
+        height: 313
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wheel_attack_17
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 6511
+        width: 515
+        height: 411
+      alignment: 9
+      pivot: {x: .518751919, y: .483282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wheel_attack_20
+      rect:
+        serializedVersion: 2
+        x: 2452
+        y: 6493
+        width: 545
+        height: 451
+      alignment: 9
+      pivot: {x: .510146856, y: .496933907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wheel_attack_48
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 5401
+        width: 743
+        height: 712
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wheel_attack_52
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 5346
+        width: 845
+        height: 787
+      alignment: 9
+      pivot: {x: .532568514, y: .51398766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wheel_attack_56
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 5246
+        width: 1051
+        height: 941
+      alignment: 9
+      pivot: {x: .510596752, y: .534792483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wheel_attack_92
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 4278
+        width: 1079
+        height: 923
+      alignment: 9
+      pivot: {x: .481543332, y: .509807408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wheel_attack_97
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 4363
+        width: 867
+        height: 678
+      alignment: 9
+      pivot: {x: .570997477, y: .558745682}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wheel_attack_101
+      rect:
+        serializedVersion: 2
+        x: 2361
+        y: 4469
+        width: 713
+        height: 647
+      alignment: 9
+      pivot: {x: .561325192, y: .422281772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wheel_attack_120
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 3555
+        width: 441
+        height: 449
+      alignment: 9
+      pivot: {x: .476529986, y: .453897119}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wheel_attack_123
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 3603
+        width: 365
+        height: 388
+      alignment: 9
+      pivot: {x: .471643239, y: .382626235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wheel_attack_125
+      rect:
+        serializedVersion: 2
+        x: 2594
+        y: 3590
+        width: 315
+        height: 333
+      alignment: 9
+      pivot: {x: .493428349, y: .487567902}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

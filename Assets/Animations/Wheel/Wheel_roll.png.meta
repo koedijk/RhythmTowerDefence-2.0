@@ -1,0 +1,276 @@
+fileFormatVersion: 2
+guid: 7f04955e29543554c921b0b7d44d3c5e
+timeCreated: 1448555701
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Wheel_roll_0
+    21300002: Wheel_roll_1
+    21300004: Wheel_roll_2
+    21300006: Wheel_roll_3
+    21300008: Wheel_roll_4
+    21300010: Wheel_roll_5
+    21300012: Wheel_roll_6
+    21300014: Wheel_roll_7
+    21300016: Wheel_roll_8
+    21300018: Wheel_roll_9
+    21300020: Wheel_roll_10
+    21300022: Wheel_roll_11
+    21300024: Wheel_roll_12
+    21300026: Wheel_roll_13
+    21300028: Wheel_roll_14
+    21300030: Wheel_roll_15
+    21300032: Wheel_roll_16
+    21300034: Wheel_roll_17
+    21300036: Wheel_roll_18
+    21300038: Wheel_roll_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Wheel_roll_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1726
+        width: 313
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wheel_roll_1
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1728
+        width: 314
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wheel_roll_2
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1727
+        width: 318
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wheel_roll_3
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1727
+        width: 318
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wheel_roll_4
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1728
+        width: 317
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wheel_roll_5
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1728
+        width: 318
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wheel_roll_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1407
+        width: 311
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wheel_roll_7
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1405
+        width: 312
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wheel_roll_8
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1404
+        width: 314
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wheel_roll_9
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1405
+        width: 313
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wheel_roll_10
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 1404
+        width: 313
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wheel_roll_11
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1409
+        width: 312
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wheel_roll_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1087
+        width: 316
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wheel_roll_13
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1085
+        width: 318
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wheel_roll_14
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1085
+        width: 316
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wheel_roll_15
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1084
+        width: 317
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wheel_roll_16
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 1084
+        width: 310
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wheel_roll_17
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 1082
+        width: 312
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wheel_roll_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 760
+        width: 313
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wheel_roll_19
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 761
+        width: 311
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

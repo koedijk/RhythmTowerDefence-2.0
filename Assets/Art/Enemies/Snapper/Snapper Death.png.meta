@@ -1,0 +1,320 @@
+fileFormatVersion: 2
+guid: 778b33c8b02facd4d89999328c0e1b2a
+timeCreated: 1448479212
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Snapper Death_0
+    21300002: Snapper Death_1
+    21300004: Snapper Death_2
+    21300006: Snapper Death_3
+    21300008: Snapper Death_4
+    21300010: Snapper Death_5
+    21300012: Snapper Death_6
+    21300014: Snapper Death_7
+    21300016: Snapper Death_8
+    21300018: Snapper Death_9
+    21300020: Snapper Death_10
+    21300022: Snapper Death_11
+    21300024: Snapper Death_12
+    21300026: Snapper Death_13
+    21300028: Snapper Death_14
+    21300030: Snapper Death_15
+    21300032: Snapper Death_16
+    21300034: Snapper Death_17
+    21300036: Snapper Death_18
+    21300038: Snapper Death_19
+    21300040: Snapper Death_20
+    21300042: Snapper Death_21
+    21300044: Snapper Death_22
+    21300046: Snapper Death_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Snapper Death_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1717
+        width: 312
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snapper Death_1
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1717
+        width: 314
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snapper Death_2
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1717
+        width: 313
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snapper Death_3
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1717
+        width: 313
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snapper Death_4
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 1717
+        width: 309
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snapper Death_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1386
+        width: 302
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snapper Death_6
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1384
+        width: 305
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snapper Death_7
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1386
+        width: 307
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snapper Death_8
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1386
+        width: 308
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snapper Death_9
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 1386
+        width: 310
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snapper Death_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1055
+        width: 310
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snapper Death_11
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1055
+        width: 311
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snapper Death_12
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1055
+        width: 315
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snapper Death_13
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1055
+        width: 317
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snapper Death_14
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 1056
+        width: 313
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snapper Death_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 726
+        width: 313
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snapper Death_16
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 724
+        width: 314
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snapper Death_17
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 724
+        width: 313
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snapper Death_18
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 724
+        width: 313
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snapper Death_19
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 724
+        width: 313
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snapper Death_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 395
+        width: 313
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snapper Death_21
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 395
+        width: 314
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snapper Death_22
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 395
+        width: 313
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snapper Death_23
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 395
+        width: 313
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,617 @@
+fileFormatVersion: 2
+guid: b7b094eb0d489aa4699a56864fe1b825
+timeCreated: 1448579383
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Wave Announce_0
+    21300002: Wave Announce_1
+    21300004: Wave Announce_2
+    21300006: Wave Announce_3
+    21300008: Wave Announce_4
+    21300010: Wave Announce_5
+    21300012: Wave Announce_6
+    21300014: Wave Announce_7
+    21300016: Wave Announce_8
+    21300018: Wave Announce_9
+    21300020: Wave Announce_10
+    21300022: Wave Announce_11
+    21300024: Wave Announce_12
+    21300026: Wave Announce_13
+    21300028: Wave Announce_14
+    21300030: Wave Announce_15
+    21300032: Wave Announce_16
+    21300034: Wave Announce_17
+    21300036: Wave Announce_18
+    21300038: Wave Announce_19
+    21300040: Wave Announce_20
+    21300042: Wave Announce_21
+    21300044: Wave Announce_22
+    21300046: Wave Announce_23
+    21300048: Wave Announce_24
+    21300050: Wave Announce_25
+    21300052: Wave Announce_26
+    21300054: Wave Announce_27
+    21300056: Wave Announce_28
+    21300058: Wave Announce_29
+    21300060: Wave Announce_30
+    21300062: Wave Announce_31
+    21300064: Wave Announce_32
+    21300066: Wave Announce_33
+    21300068: Wave Announce_34
+    21300070: Wave Announce_35
+    21300072: Wave Announce_36
+    21300074: Wave Announce_37
+    21300076: Wave Announce_38
+    21300078: Wave Announce_39
+    21300080: Wave Announce_40
+    21300082: Wave Announce_41
+    21300084: Wave Announce_42
+    21300086: Wave Announce_43
+    21300088: Wave Announce_44
+    21300090: Wave Announce_45
+    21300092: Wave Announce_46
+    21300094: Wave Announce_47
+    21300096: Wave Announce_48
+    21300098: Wave Announce_49
+    21300100: Wave Announce_50
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Wave Announce_0
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 7646
+        width: 288
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_1
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 7634
+        width: 288
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_2
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 7618
+        width: 288
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_3
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 7606
+        width: 288
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_4
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 7590
+        width: 288
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_5
+      rect:
+        serializedVersion: 2
+        x: 3094
+        y: 7578
+        width: 288
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_6
+      rect:
+        serializedVersion: 2
+        x: 3682
+        y: 7562
+        width: 288
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_7
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 7546
+        width: 288
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_8
+      rect:
+        serializedVersion: 2
+        x: 4858
+        y: 7534
+        width: 288
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_9
+      rect:
+        serializedVersion: 2
+        x: 5446
+        y: 7518
+        width: 288
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_10
+      rect:
+        serializedVersion: 2
+        x: 6034
+        y: 7506
+        width: 288
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_11
+      rect:
+        serializedVersion: 2
+        x: 6622
+        y: 7490
+        width: 288
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_12
+      rect:
+        serializedVersion: 2
+        x: 7210
+        y: 7478
+        width: 288
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_13
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 6528
+        width: 288
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_14
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 6514
+        width: 288
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_15
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 6522
+        width: 288
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_16
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 6526
+        width: 288
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_17
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 6518
+        width: 288
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_18
+      rect:
+        serializedVersion: 2
+        x: 3094
+        y: 6510
+        width: 288
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_19
+      rect:
+        serializedVersion: 2
+        x: 3682
+        y: 6510
+        width: 288
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_20
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 6510
+        width: 288
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_21
+      rect:
+        serializedVersion: 2
+        x: 4858
+        y: 6510
+        width: 288
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_22
+      rect:
+        serializedVersion: 2
+        x: 5446
+        y: 6510
+        width: 288
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_23
+      rect:
+        serializedVersion: 2
+        x: 6034
+        y: 6510
+        width: 288
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_24
+      rect:
+        serializedVersion: 2
+        x: 6622
+        y: 6510
+        width: 288
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_25
+      rect:
+        serializedVersion: 2
+        x: 7210
+        y: 6510
+        width: 288
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_26
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 5578
+        width: 288
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_27
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 5578
+        width: 288
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_28
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 5578
+        width: 288
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_29
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 5578
+        width: 288
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_30
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 5578
+        width: 288
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_31
+      rect:
+        serializedVersion: 2
+        x: 3094
+        y: 5578
+        width: 288
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_32
+      rect:
+        serializedVersion: 2
+        x: 3682
+        y: 5578
+        width: 288
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_33
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 5578
+        width: 288
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_34
+      rect:
+        serializedVersion: 2
+        x: 4858
+        y: 5578
+        width: 288
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_35
+      rect:
+        serializedVersion: 2
+        x: 5446
+        y: 5578
+        width: 288
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_36
+      rect:
+        serializedVersion: 2
+        x: 6034
+        y: 5578
+        width: 288
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_37
+      rect:
+        serializedVersion: 2
+        x: 6622
+        y: 5578
+        width: 288
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_38
+      rect:
+        serializedVersion: 2
+        x: 7210
+        y: 5578
+        width: 288
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_39
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 4646
+        width: 288
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_40
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 4634
+        width: 288
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_41
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 4622
+        width: 288
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_42
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 4646
+        width: 288
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_43
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 4670
+        width: 288
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_44
+      rect:
+        serializedVersion: 2
+        x: 3094
+        y: 4688
+        width: 288
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_45
+      rect:
+        serializedVersion: 2
+        x: 3682
+        y: 4719
+        width: 288
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_46
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 4746
+        width: 288
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_47
+      rect:
+        serializedVersion: 2
+        x: 4858
+        y: 4774
+        width: 288
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_48
+      rect:
+        serializedVersion: 2
+        x: 5446
+        y: 4798
+        width: 288
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_49
+      rect:
+        serializedVersion: 2
+        x: 6034
+        y: 4822
+        width: 288
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wave Announce_50
+      rect:
+        serializedVersion: 2
+        x: 6622
+        y: 4850
+        width: 288
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

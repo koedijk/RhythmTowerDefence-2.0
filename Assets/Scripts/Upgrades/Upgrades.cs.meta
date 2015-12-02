@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: eed38182fdbdd094c9337f954d93eb5c
+timeCreated: 1448399013
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Upgrade1: {fileID: 2800000, guid: 4dfc3ce4722c5e844845e5067cb91ba7, type: 3}
+  - Upgrade2: {fileID: 2800000, guid: 0b8e26ab695dc8a4781dcf91e9294dde, type: 3}
+  - Upgrade3: {fileID: 2800000, guid: 1b5650f0bf046b94db8ab242e4301abf, type: 3}
+  - Upgrade4: {fileID: 2800000, guid: 1acbf99c9ff1acf47886e6342983d2e0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
